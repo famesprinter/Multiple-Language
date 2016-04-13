@@ -1,0 +1,9 @@
+/* 
+  Localizable.Strings
+  LocalizedString
+
+  Created by Kittitat Rodphotong on 12/16/2558 BE.
+  Copyright © 2558 Kittitat Rodphotong. All rights reserved.
+*/
+
+"HELLO_WORLD" = "สวัสดีชาวโลก";
