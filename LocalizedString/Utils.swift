@@ -11,7 +11,6 @@ import Foundation
 // Language
 private let defaultLang = "en"
 private let currentLangKey = "CurrentLanguageKey"
-private let notiChangeLangUpdate = "LanguageUpdate"
 
 class Utils {
     

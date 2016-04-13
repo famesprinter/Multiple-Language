@@ -21,13 +21,7 @@ class ViewController: UIViewController {
         updateLabel()
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
     func updateLabel() {
-//        print("\(Utils.currentLanguage())")
         myLabel.text = "HELLO_WORLD".localizable()
     }
     
