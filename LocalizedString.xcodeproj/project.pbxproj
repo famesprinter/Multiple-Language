@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F06302971C225683004B8BF0 /* DataModelContext.swift in Sources */ = {isa = PBXBuildFile; fileRef = F06302961C225683004B8BF0 /* DataModelContext.swift */; };
 		F063FE501C2154DA00358625 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F063FE4F1C2154DA00358625 /* AppDelegate.swift */; };
 		F063FE521C2154DA00358625 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F063FE511C2154DA00358625 /* ViewController.swift */; };
 		F063FE551C2154DA00358625 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F063FE531C2154DA00358625 /* Main.storyboard */; };
@@ -19,7 +18,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F06302961C225683004B8BF0 /* DataModelContext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataModelContext.swift; sourceTree = "<group>"; };
 		F063FE4C1C2154DA00358625 /* LocalizedString.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LocalizedString.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F063FE4F1C2154DA00358625 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F063FE511C2154DA00358625 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,14 +45,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F06302951C225672004B8BF0 /* Context */ = {
-			isa = PBXGroup;
-			children = (
-				F06302961C225683004B8BF0 /* DataModelContext.swift */,
-			);
-			name = Context;
-			sourceTree = "<group>";
-		};
 		F063FE431C2154DA00358625 = {
 			isa = PBXGroup;
 			children = (
@@ -76,7 +66,6 @@
 		F063FE4E1C2154DA00358625 /* LocalizedString */ = {
 			isa = PBXGroup;
 			children = (
-				F06302951C225672004B8BF0 /* Context */,
 				F063FE701C216BCD00358625 /* Utilities */,
 				F063FE4F1C2154DA00358625 /* AppDelegate.swift */,
 				F063FE511C2154DA00358625 /* ViewController.swift */,
@@ -188,7 +177,6 @@
 			files = (
 				F0AAD20C1CBB62AD00F88E98 /* Utils.swift in Sources */,
 				F063FE521C2154DA00358625 /* ViewController.swift in Sources */,
-				F06302971C225683004B8BF0 /* DataModelContext.swift in Sources */,
 				F063FE721C216CEF00358625 /* String+MyText.swift in Sources */,
 				F063FE501C2154DA00358625 /* AppDelegate.swift in Sources */,
 			);

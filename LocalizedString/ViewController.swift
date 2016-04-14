@@ -12,9 +12,6 @@ class ViewController: UIViewController {
     // MARK: - IBOutlet
     @IBOutlet weak var myLabel: UILabel!
     
-    // MARK: - Variable
-    let dataModel = DataModelContext.dataModelContext
-
     override func viewDidLoad() {
         super.viewDidLoad()
         
