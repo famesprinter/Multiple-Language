@@ -31,7 +31,6 @@
 		F063FE6D1C21632500358625 /* th */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = th; path = th.lproj/Localizable.strings; sourceTree = "<group>"; };
 		F063FE711C216CEF00358625 /* String+MyText.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+MyText.swift"; sourceTree = "<group>"; };
 		F0AAD20B1CBB62AD00F88E98 /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
-		F0C8DB821C434BD400065CAD /* LocalizedString copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "LocalizedString copy-Info.plist"; path = "/Users/kittitat/Documents/MyLAB/Swift/LocalizedString/LocalizedString copy-Info.plist"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,7 +50,6 @@
 				F0C8DB811C434BD400065CAD /* Resources-iPad */,
 				F063FE4E1C2154DA00358625 /* LocalizedString */,
 				F063FE4D1C2154DA00358625 /* Products */,
-				F0C8DB821C434BD400065CAD /* LocalizedString copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
